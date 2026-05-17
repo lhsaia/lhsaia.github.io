@@ -42,7 +42,7 @@ O projeto foi projetado para ser leve, moderno, altamente responsivo e totalment
 
 ## 🚀 Como Rodar Localmente
 
-Basta clonar o repositório e abrir o arquivo `index.html` no seu navegador favorito ou rodar um servidor de desenvolvimento simples:
+Basta clonar o repositório e abrir o arquivo `index.html` diretamente no seu navegador favorito:
 
 ```bash
 # Clone o repositório
@@ -50,7 +50,4 @@ git clone https://github.com/lhsaia/lhsaia.github.io.git
 
 # Entre na pasta
 cd lhsaia.github.io
-
-# (Opcional) Suba um servidor web simples com Python
-python -m http.server 8000
 ```
