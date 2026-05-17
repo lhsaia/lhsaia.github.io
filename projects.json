@@ -1,0 +1,256 @@
+[
+    {
+        "id": "confusa",
+        "title": "CONFUSA.top",
+        "description": {
+            "pt": "Portal central da Confederação de Futebol Solitário. Gestão completa de times, jogadores e ranking, integrado à suíte Hexacolor YMT (criada por Ronaldo Junior). No ar desde 2018.",
+            "en": "Central portal of the Solitary Football Confederation. Complete management of teams, players, and rankings, integrated with the Hexacolor YMT suite (created by Ronaldo Junior). Live since 2018.",
+            "es": "Portal central de la Confederación de Fútbol Solitario. Gestión completa de equipos, jugadores y rankings, integrado con la suite Hexacolor YMT (creada por Ronaldo Junior). En línea desde 2018."
+        },
+        "url": "https://confusa.top",
+        "tags": [
+            "PHP 8",
+            "MySQL",
+            "JavaScript (ES6)",
+            "HTML5",
+            "CSS3"
+        ],
+        "type": "large",
+        "image": "confusa.png",
+        "highlightColor": "#1a1469",
+        "collaborators": [
+            {
+                "name": "Ronaldo Junior",
+                "url": "https://ronaldojuniorbr.weebly.com/",
+                "icon": "default"
+            }
+        ]
+    },
+    {
+        "id": "boloes",
+        "title": "Bolões.top",
+        "description": {
+            "pt": "Plataforma de bolões esportivos para Copa do Mundo e Olimpíadas, com sistemas de atualização de partidas e classificação em tempo real. No ar desde 2022.",
+            "en": "Sports sweepstakes platform for the World Cup and Olympics, featuring real-time match updates and leaderboard systems. Live since 2022.",
+            "es": "Plataforma de apuestas deportivas para el Mundial y las Olimpiadas, com sistemas de actualización de partidos y classificação em tempo real. En línea desde 2022."
+        },
+        "url": "https://boloes.top",
+        "tags": [
+            "PHP 8",
+            "MySQL",
+            "JavaScript (ES6)",
+            "HTML5",
+            "CSS3"
+        ],
+        "type": "large",
+        "image": "boloes.png",
+        "highlightColor": "#800020"
+    },
+    {
+        "id": "au-player",
+        "title": "Aú Player 🎧",
+        "description": {
+            "pt": "Meu primeiro projeto Android: reprodutor de áudio moderno para Android focado na gestão de mensagens de voz e extração de áudio de vídeos. Desenvolvido com Jetpack Compose e Media3, suporta backups (.aubk) e foi criado com o objetivo de criar playlists de áudios da família para minha filha escutar no carro. Compatível com Android Auto. Atualmente em teste fechado mandatório para futura publicação na PlayStore",
+            "en": "My first Android project: a modern audio player for Android focused on managing voice messages and extracting audio from videos. Built with Jetpack Compose and Media3, it supports backups (.aubk) and was created to make family audio playlists for my daughter to listen to in the car. Compatible with Android Auto. Currently in mandatory closed testing for future PlayStore release",
+            "es": "Mi primer projeto de Android: un reproductor de audio moderno para Android enfocado en la gestão de mensagens de voz y la extracción de audio de videos. Desarrollado con Jetpack Compose y Media3, admite copias de segurança (.aubk) y fue criado con el objetivo de criar listas de reproducción de audio familiares para que mi hija las escuche en el auto. Compatible con Android Auto. Currently in closed testing for future PlayStore release"
+        },
+        "url": "https://play.google.com/apps/testing/com.luiscereda.au",
+        "tags": [
+            "Android SDK",
+            "Kotlin",
+            "Jetpack Compose",
+            "Media3",
+            "Room Database"
+        ],
+        "type": "tall",
+        "image": "au.png",
+        "highlightColor": "#ff9800"
+    },
+    {
+        "id": "mapa-futebol",
+        "title": "Mapa do Futebol Paulista",
+        "description": {
+            "pt": "Colaboração com Gabriel Pitor e Ivan Gottardo na criação do mapa interativo e histórico com tecnologia DeepZoom e OpenSeadragon para explorar todos os clubes de futebol profissional de São Paulo.",
+            "en": "Collaboration with Gabriel Pitor and Ivan Gottardo on the creation of the interactive and historical map featuring DeepZoom and OpenSeadragon technology to explore all professional football clubs in São Paulo.",
+            "es": "Colaboración con Gabriel Pitor e Ivan Gottardo en la creación del mapa interactivo e histórico con tecnología DeepZoom y OpenSeadragon para explorar todos os clubes de futebol profissional de São Paulo."
+        },
+        "url": "https://mapadofutebolpaulista.com.br",
+        "tags": [
+            "OpenSeadragon",
+            "DeepZoom",
+            "JavaScript",
+            "HTML5",
+            "CSS3"
+        ],
+        "type": "wide",
+        "image": "mapa.png",
+        "highlightColor": "#eab308",
+        "collaborators": [
+            {
+                "name": "Gabriel Pitor",
+                "url": "https://br.linkedin.com/in/gabriel-pitor",
+                "icon": "linkedin"
+            },
+            {
+                "name": "Ivan Gottardo",
+                "url": "https://www.instagram.com/ivangottardo/",
+                "icon": "instagram"
+            }
+        ]
+    },
+    {
+        "id": "octamotor",
+        "title": "Octamotor 🏎️",
+        "description": {
+            "pt": "Colaboração com Zé D'Agostini no sistema de simulação e gestão de corridas automotivas virtuais integrado à CONFUSA. Processa pilotos, equipes, climas dinâmicos e telemetria de corrida em tempo real.",
+            "en": "Collaboration with Zé D'Agostini on the virtual car racing simulation and management system integrated with CONFUSA. Processes drivers, teams, dynamic weather, and real-time race telemetry.",
+            "es": "Colaboración con Zé D'Agostini en el sistema de simulación y gestión de carreras de autos virtuales integrado con CONFUSA. Procesa pilotos, equipos, climas dinámicos y telemetría de carrera en tempo real."
+        },
+        "url": "https://octamotor.confusa.top",
+        "tags": [
+            "PHP 8",
+            "MySQL",
+            "JavaScript (ES6)",
+            "HTML5",
+            "CSS3"
+        ],
+        "type": "normal",
+        "image": "octamotor.png",
+        "highlightColor": "#9ca3af",
+        "collaborators": [
+            {
+                "name": "Zé D'Agostini",
+                "url": "https://www.instagram.com/zedagostini/",
+                "icon": "instagram"
+            }
+        ]
+    },
+    {
+        "id": "tigre",
+        "title": "Almanaque do Tigre",
+        "description": {
+            "pt": "Colaboração com Gabriel Pitor e Claudio Gioria na criação do almanaque online para o acervo histórico digital do Rio Branco de Americana.",
+            "en": "Collaboration with Gabriel Pitor and Claudio Gioria on the creation of the online almanac for the digital historical archive of Rio Branco de Americana.",
+            "es": "Colaboración con Gabriel Pitor y Claudio Gioria en la criação del almanaque en línea para el archivo histórico digital de Rio Branco de Americana."
+        },
+        "url": "https://almanaquedotigre.com.br",
+        "tags": [
+            "PHP",
+            "WordPress",
+            "JavaScript (ES6)",
+            "MySQL",
+            "HTML5",
+            "CSS3"
+        ],
+        "type": "wide",
+        "image": "tigre.png",
+        "highlightColor": "#ffffff",
+        "collaborators": [
+            {
+                "name": "Gabriel Pitor",
+                "url": "https://br.linkedin.com/in/gabriel-pitor",
+                "icon": "linkedin"
+            },
+            {
+                "name": "Claudio Gioria",
+                "url": "https://br.linkedin.com/in/claudio-gioria-13a00a43",
+                "icon": "linkedin"
+            }
+        ]
+    },
+    {
+        "id": "sengi",
+        "title": "Sengi",
+        "description": {
+            "pt": "Colaboração com Fábio Cereda em seu Progressive Web App de alta performance e sincronizado na nuvem para monitorar treinos, hábitos saudáveis, dieta e métricas corporais. Construído para velocidade, confiabilidade offline e análises profundas.",
+            "en": "Collaboration with Fábio Cereda on his high-performance, cloud-synced Progressive Web App for tracking workouts, healthy habits, diet, and body metrics. Built for speed, offline reliability, and deep analytics.",
+            "es": "Colaboración con Fábio Cereda en su Progressive Web App de alto rendimiento y sincronizada en la nube para registrar entrenamientos, hábitos saludables, dieta y métricas corporales. Diseñada para brindar velocidad, confiabilidad sin conexión y análisis profundos."
+        },
+        "url": "https://sengi-app.vercel.app/",
+        "tags": [
+            "Next.js 15",
+            "Tailwind CSS 4",
+            "MongoDB Atlas",
+            "Auth.js v5",
+            "PWA",
+            "Traefik",
+            "Recharts",
+            "Cloudinary"
+        ],
+        "type": "normal",
+        "image": "sengi.png",
+        "highlightColor": "rgb(3, 138, 98)",
+        "collaborators": [
+            {
+                "name": "Fabio Cereda",
+                "url": "https://github.com/fscereda",
+                "icon": "github"
+            }
+        ]
+    },
+    {
+        "id": "mural",
+        "title": "Mural do Fronteiras Invisíveis do Futebol",
+        "description": {
+            "pt": "Interface interativa para visualização de episódios do podcast Fronteiras Invisíveis do Futebol (de Filipe Figueiredo e Matias Pinto, na Central3) em um mapa interativo.",
+            "en": "Interactive interface for visualizing episodes of the Fronteiras Invisíveis do Futebol podcast (by Filipe Figueiredo and Matias Pinto, on Central3) on an interactive map.",
+            "es": "Interfaz interactiva para visualizar episodios del podcast Fronteiras Invisíveis del Fútbol (de Filipe Figueiredo y Matias Pinto, en Central3) en un mapa interactivo."
+        },
+        "url": "https://lhsaia.github.io/fronteiras/",
+        "tags": [
+            "JavaScript",
+            "Leaflet.js",
+            "HTML5",
+            "CSS3"
+        ],
+        "type": "wide",
+        "image": "fronteiras.png",
+        "highlightColor": "#ef4444"
+    },
+    {
+        "id": "finn",
+        "title": "Finn",
+        "description": {
+            "pt": "Gerenciador financeiro pessoal \"local-first\" com foco em privacidade total.",
+            "en": "Local-first personal finance manager focused on complete privacy.",
+            "es": "Gestor financiero personal local-first enfocado en la privacidad total."
+        },
+        "url": "#",
+        "tags": [
+            "Python",
+            "Dash"
+        ],
+        "type": "normal",
+        "image": "finn.png",
+        "highlightColor": "#06b6d4",
+        "disabled": true
+    },
+    {
+        "id": "home-server",
+        "title": "Home Server 🏠",
+        "description": {
+            "pt": "Colaboração com Juan Peres em infraestrutura de servidor doméstico baseada em Docker e Linux, configurada para monitoramento de câmeras (Frigate), automação residencial (Home Assistant), servidores de jogos e backups em rede privada.",
+            "en": "Collaboration with Juan Peres on home server infrastructure based on Docker and Linux, configured for camera monitoring (Frigate), home automation (Home Assistant), game servers, and private network backups.",
+            "es": "Colaboración con Juan Peres en infraestructura de servidor doméstico basada en Docker y Linux, configurada para el monitoreo de cámaras (Frigate), automatización residencial (Home Assistant), servidores de juegos y copias de seguridad en red privada."
+        },
+        "url": "https://github.com/lhsaia/home-server",
+        "tags": [
+            "Docker & Portainer",
+            "Linux (Ubuntu)",
+            "Home Assistant",
+            "Nginx Proxy Manager",
+            "Frigate NVR (IA)",
+            "Mosquitto (MQTT)"
+        ],
+        "type": "normal",
+        "image": "home-server.png",
+        "highlightColor": "#6366f1",
+        "collaborators": [
+            {
+                "name": "Juan Peres",
+                "url": "https://github.com/juanrodriguesx",
+                "icon": "github"
+            }
+        ]
+    }
+]
