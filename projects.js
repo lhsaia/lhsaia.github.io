@@ -145,7 +145,6 @@ const projects = [
         "type": "wide",
         "image": "tigre.png",
         "highlightColor": "#ffffff",
-        "disabled": true,
         "collaborators": [
             {
                 "name": "Gabriel Pitor",
