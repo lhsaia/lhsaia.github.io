@@ -252,5 +252,47 @@ const projects = [
                 "icon": "github"
             }
         ]
+    },
+    {
+        "id": "volta-ao-mundo",
+        "title": "Volta ao Mundo 🌍🎵",
+        "description": {
+            "pt": "Mapa musical interativo para explorar culturas e sonoridades pelo globo. Permite navegar por países e estados (Brasil, EUA e México) para ouvir músicas marcantes com player integrado do YouTube e fotos dos artistas.",
+            "en": "Interactive musical map to explore global sounds and cultures. Navigate through countries and states (Brazil, USA, and Mexico) to discover iconic tracks with an integrated YouTube player and artist photos.",
+            "es": "Mapa musical interactivo para explorar culturas y sonoridades globales. Permite navegar por países e estados (Brasil, EE. UU. y México) para escuchar canciones destacadas con un reproductor integrado de YouTube y fotos de los artistas."
+        },
+        "url": "https://lhsaia.github.io/volta-ao-mundo/",
+        "tags": [
+            "Leaflet.js",
+            "GeoJSON",
+            "JavaScript (ES6)",
+            "YouTube API",
+            "HTML5",
+            "CSS3"
+        ],
+        "type": "normal",
+        "image": "volta.png",
+        "highlightColor": "#1db954"
+    },
+    {
+        "id": "site-lide",
+        "title": "Site LIDE 🔬",
+        "description": {
+            "pt": "Website institucional do Laboratório de Investigação em Desenvolvimento e Edição (LIDE) no Instituto de Ciências Biomédicas da USP. Apresenta o fluxo de pesquisa translacional no Transtorno do Espectro Autista (TEA), do proteoma à terapia gênica.",
+            "en": "Institutional website for the Laboratory of Investigation in Development and Editing (LIDE) at ICB-USP. Showcases translational research in Autism Spectrum Disorder (ASD), from proteomics to gene therapy.",
+            "es": "Sitio web institucional del Laboratorio de Investigación en Desarrollo y Edición (LIDE) en el ICB-USP. Presenta la investigación traslacional en el Trastorno del Espectro Autista (TEA), de la proteómica a la terapia génica."
+        },
+        "url": "https://github.com/lhsaia/site-lide",
+        "tags": [
+            "JavaScript (ES6)",
+            "HTML5",
+            "CSS3",
+            "i18n",
+            "Formspree"
+        ],
+        "type": "normal",
+        "image": "lide.png",
+        "highlightColor": "#1E9C98",
+        "disabled": true
     }
 ];
