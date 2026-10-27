@@ -282,7 +282,7 @@ const projects = [
             "en": "Institutional website for the Laboratory of Investigation in Development and Editing (LIDE) at ICB-USP. Showcases translational research in Autism Spectrum Disorder (ASD), from proteomics to gene therapy.",
             "es": "Sitio web institucional del Laboratorio de Investigación en Desarrollo y Edición (LIDE) en el ICB-USP. Presenta la investigación traslacional en el Trastorno del Espectro Autista (TEA), de la proteómica a la terapia génica."
         },
-        "url": "https://github.com/lhsaia/site-lide",
+        "url": "https://lhsaia.github.io/site-lide/",
         "tags": [
             "JavaScript (ES6)",
             "HTML5",
