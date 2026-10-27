@@ -292,7 +292,6 @@ const projects = [
         ],
         "type": "normal",
         "image": "lide.png",
-        "highlightColor": "#1E9C98",
-        "disabled": true
+        "highlightColor": "#1E9C98"
     }
 ];
