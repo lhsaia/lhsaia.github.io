@@ -293,5 +293,25 @@
         "type": "normal",
         "image": "lide.png",
         "highlightColor": "#1E9C98"
+    },
+    {
+        "id": "site-lele",
+        "title": "Lelê Tattoo 💀💉",
+        "description": {
+            "pt": "Website institucional, portfólio interativo e gerador de orçamentos para o estúdio autoral de tatuagem Lelê Tattoo (Morro Agudo – SP). Conta com direção de arte editorial dark, galeria com filtros em tempo real, modal lightbox e integração inteligente de orçamento direto pelo WhatsApp.",
+            "en": "Institutional website, interactive portfolio, and quote generator for Lelê Tattoo tattoo studio (Morro Agudo – SP). Features dark editorial art direction, real-time filtered gallery, lightbox modal, and direct smart quote integration via WhatsApp.",
+            "es": "Sitio web institucional, portafolio interactivo y generador de presupuestos para el estudio autoral Lelê Tattoo (Morro Agudo – SP). Cuenta con dirección de arte editorial dark, galería con filtros en tiempo real, modal lightbox e integración inteligente de presupuestos por WhatsApp."
+        },
+        "url": "https://lhsaia.github.io/site-lele/",
+        "tags": [
+            "Tailwind CSS",
+            "JavaScript (ES6)",
+            "HTML5",
+            "Art Direction",
+            "WhatsApp API"
+        ],
+        "type": "normal",
+        "image": "lele.png",
+        "highlightColor": "#dc2626"
     }
 ]
