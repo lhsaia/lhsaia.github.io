@@ -278,9 +278,9 @@
         "id": "site-lide",
         "title": "Site LIDE 🔬",
         "description": {
-            "pt": "Website institucional do Laboratório de Investigação em Desenvolvimento e Edição (LIDE) no Instituto de Ciências Biomédicas da USP. Apresenta o fluxo de pesquisa translacional no Transtorno do Espectro Autista (TEA), do proteoma à terapia gênica.",
-            "en": "Institutional website for the Laboratory of Investigation in Development and Editing (LIDE) at ICB-USP. Showcases translational research in Autism Spectrum Disorder (ASD), from proteomics to gene therapy.",
-            "es": "Sitio web institucional del Laboratorio de Investigación en Desarrollo y Edición (LIDE) en el ICB-USP. Presenta la investigación traslacional en el Trastorno del Espectro Autista (TEA), de la proteómica a la terapia génica."
+            "pt": "Website institucional do Laboratório de Investigação em Desenvolvimento e Edição (LIDE) no Departamento de Genética da FMRP-USP. Apresenta o fluxo de pesquisa translacional no Transtorno do Espectro Autista (TEA), do proteoma à terapia gênica.",
+            "en": "Institutional website for the Laboratory of Investigation in Development and Editing (LIDE) at the Department of Genetics at FMRP-USP. Showcases translational research in Autism Spectrum Disorder (ASD), from proteomics to gene therapy.",
+            "es": "Sitio web institucional del Laboratorio de Investigación en Desarrollo y Edición (LIDE) en el Departamento de Genética de la FMRP-USP. Presenta la investigación traslacional en el Trastorno del Espectro Autista (TEA), de la proteómica a la terapia génica."
         },
         "url": "https://lhsaia.github.io/site-lide/",
         "tags": [
